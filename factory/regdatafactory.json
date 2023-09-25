@@ -1,0 +1,9 @@
+{
+	"name": "regdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19020bc9-b5e0-4051-a0b6-0bb1602e01ee",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
