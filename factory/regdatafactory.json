@@ -1,9 +1,17 @@
 {
 	"name": "regdatafactory",
+	"properties": {
+		"globalParameters": {
+			"PipelineGlobalParam": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "19020bc9-b5e0-4051-a0b6-0bb1602e01ee",
-		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+		"principalId": "aea485ca-120b-4c52-af43-9beae26cc784",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
 	}
 }
