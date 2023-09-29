@@ -78,8 +78,7 @@
 					}
 				],
 				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
+					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
 				"lastPublishTime": "2023-09-28T12:02:20Z"
@@ -260,8 +259,7 @@
 					}
 				],
 				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
+					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
 				"lastPublishTime": "2023-09-28T09:31:54Z"
@@ -312,8 +310,7 @@
 					}
 				],
 				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
+					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
 				"lastPublishTime": "2023-09-28T09:10:01Z"
